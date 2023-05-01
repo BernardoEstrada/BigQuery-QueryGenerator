@@ -1,0 +1,24 @@
+{
+  "name": "bigquery-querygenerator",
+  "version": "1.0.0",
+  "description": "A query generator for BigQuery on TypeScript. Supports DQL, no DDL is provided.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardoEstrada/BigQuery-QueryGenerator.git"
+  },
+  "keywords": [
+    "BigQuery",
+    "Query",
+    "SQL"
+  ],
+  "author": "Bernardo Estrada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BernardoEstrada/BigQuery-QueryGenerator/issues"
+  },
+  "homepage": "https://github.com/BernardoEstrada/BigQuery-QueryGenerator#readme"
+}
